@@ -26,13 +26,16 @@ pipdeptree==2.23.4
 pybamm==23.9
 pydash==5.1.0
 pyparsing==3.1.4
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
 python-dateutil==2.8.2
 pytz==2021.3
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.8
 s3transfer==0.5.2
 scikit-learn==1.0.2
-scipy==1.5.4
+scipy==1.10.1
 six==1.16.0
 threadpoolctl==3.5.0
 tqdm==4.62.3
