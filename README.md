@@ -34,6 +34,10 @@ This will install all the libraries needed for the project.
 
 ###### Note: you must have requirements.txt file in order to install exact versions otherwise the project will not run.
 
-### 2. To check for any problems, type: `pipenv check`
+### 2. To install individually by focusing on one core librabrary, type: `pipenv install <pybamm/beep>`
+
+This works better on separate virtual enviroment with separate python versions for each core library.
+
+### 3. To check for any problems, type: `pipenv check`
 
 # ALL DONE? HAVE FUN.
